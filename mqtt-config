@@ -4,7 +4,10 @@
 246F28174490/noise
 246F28174490/counter
 246F28174490/weight
+246F28174490/status
+
 # beehive 1 - brick 1
 246F281817C0/temperature
 246F281817C0/humidity
 246F281817C0/noise
+246F281817C0/status
